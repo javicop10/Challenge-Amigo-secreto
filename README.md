@@ -6,4 +6,6 @@
 
 	•	Tecnologías utilizadas: JavaScript, HTML, CSS
 
+        +       Accesos: https://github.com/javicop10/Challenge-Amigo-secreto.git 
+
 	•	Personas Desarrolladoras del Proyecto: Javier Pérez Pérez
